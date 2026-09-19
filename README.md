@@ -1,32 +1,39 @@
-### // IDENTITY: Veruca Velharin
-> **Role:** Linux SysAdmin & Infrastructure Architect
-> **Status:** Building "Veruca's Empire Infrastructure"
-> **Location:** Phoenix, AZ (The Grid)
+🎀 ☠️ **𝐈𝐃𝐄𝐍𝐓𝐈𝐓𝐘 : Veruca Blankenship** ☠️ 🎀
+
+> **Role:** Linux SysAdmin & SOC Analyst Trainee 🖤💻
+> **Status:** Building "Veruca's Empire Infrastructure" (and making it look cute) ✨
+> **Location:** Tempe, AZ (The Grid) 🦇 🔜 Seattle, WA '27 🌧️☕
 
 ---
 
-### // SYSTEM_DIAGNOSTICS
-**Translating rigorous Quality Control standards into resilient IT infrastructure.**
-I am transitioning from high-precision Construction QC (ATTI/ACI Certified) to Data Center Operations. I don't just "use" computers; I dismantle, audit, and rebuild them with a zero-trust mentality.
+### ✧･ﾟ: *✧･ﾟ:* **SYSTEM_DIAGNOSTICS** *:･ﾟ✧*:･ﾟ✧
 
-* **Primary Mainframe:** Pop!_OS (Debian-based stability | Daily Driver)
-* **Mobile Command:** Pixel 7 Pro running Termux (Zsh "Fortified" Config)
-* **Research Labs:** Arch Linux (Rolling), Void Linux (Runit), Kali Linux (Pen Testing)
-* **Secure Ops:** Tails OS ("The Ghost" | Secure Comms)
-* **Network Hardening:** Netgear R7000 running FreshTomato (NVRAM/CLI Config)
+**Translating ruthless Quality Control into bulletproof IT infrastructure. 💅**
+Swapping my high-vis vest and concrete testing (ATTI/ACI Certified) for remote SOC and Linux Support. I don't just "use" computers; I tear them apart, audit the pieces, and rebuild them with zero trust and a whole lot of attitude.
 
-### // MISSION_LOG
-1.  **Career Pivot:** Leveraging ATTI Field & ACI Level 1 discipline to master Linux Systems Administration.
-2.  **Current Studies:** CompTIA A+ / Network+ / Linux+
-3.  **Sovereignty:** Establishing automated income & digital independence via "The Empire."
+* 🌸 **Primary Mainframe:** Fedora Bluefin (Immutable & unbothered / HP Hardware) + Debian XFCE for that classic grunge feel.
+* ☁️ **Cloud Ops:** Rocky Linux on Hetzner (Hosting my own private Gitea forge 🏰).
+* 📱 **Mobile Command:** Pixel 7 Pro.
+* 🕷️ **Mad Science Labs:** Rootless Podman honeypots (trapping threats with Python & iptables auto-blocker daemons like a black widow). FreeBSD on the side.
+* 🕸️ **Network Hardening:** GL.iNet Beryl AX travel router dripping in OpenWrt, a Tailscale mesh topology, and AdGuard Home DNS routing.
 
-### // THE_STACK
+### 🖤 // **MISSION_LOG**
+
+1. **Career Pivot:** Leveraging that hardcore ATTI Field (exp. 10/2028) & ACI Grade 1 (exp. 07/2029) discipline to absolutely crush a remote SOC Analyst or Linux Support Engineering position.
+2. **Current Obsession:** CompTIA Security+ (Locked in on a brutal 6-hour daily study protocol. No excuses.) 🔪
+3. **Active Development:** Coding custom security toys like *Switchyard* (web-based nftables compiler) and *Chaff* (terminal traffic noise generator to confuse the ops ✨).
+4. **Sovereignty:** Establishing automated income & digital independence via "The Empire." Taking over the world, basically.
+
+### 🎧 // **THE_STACK**
+
 | Component | Details |
-| :--- | :--- |
-| **Shell** | ZSH (Modular Architecture, Advanced Piping, Regex) |
-| **Protocols** | SSH, SCP, DHCP, DNS, Tailscale |
-| **Editor** | Micro / Nano |
-| **Philosophy** | *"Quality Control is universal. Whether it's concrete density or packet loss, I find the fault before it becomes a failure."* |
+| --- | --- |
+| **Shell & Workspace** | Zsh (running my custom modular *zushy* config 🎀), Fish, Tmux |
+| **Protocols & Routing** | SSH, Tailscale, nftables, AdGuard DNS, OpenWrt 🔒 |
+| **Editor** | Neovim (obviously 💅) |
+| **Languages & Toys** | Python, JS (building 2D FABRIK IK skeletons ☠️), mpv & yt-dlp for streaming 90s alt-rock and grunge 🎸 |
+| **Philosophy** | *"Quality Control is universal, babe. Whether it's concrete density or packet loss, I'm finding the fault before it even thinks about failing."* 💋🔪 |
 
 ---
-[ Status: Online ] [ Uptime: 99.9% ]
+
+[ Status: Online & Unstoppable 🖤 ] [ Uptime: 99.9% 🎀 ] [ Addressed to: Vee ]
