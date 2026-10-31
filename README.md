@@ -2,8 +2,20 @@
 
 > **Role:** Linux SysAdmin & SOC Analyst Trainee 🖤💻
 > **Status:** Building "Veruca's Empire Infrastructure" (and making it look cute) ✨
-> **Location:** Tempe, AZ (The Grid) 🦇 🔜 Seattle, WA '27 🌧️☕
+> **Location:** Phoenix, AZ (The Grid) 🦇 🔜 Seattle, WA '27 🌧️☕
 > **Theme:** Midnight Circle — violet, moon-silver & candle gold 🕯️☾☽
+
+✦ ☾ ･ﾟ✧ ･ﾟ✧ ☽ ✦
+
+### ☾ 💻 // **SERVICES — VERUCA SERVICES** ☽
+
+**Veruca Services · Velharin Services**
+
+I provide custom Linux automation and remote infrastructure support for clients. I build secure, lightweight scripts that keep systems stable.
+
+* **Custom Linux automation** — scripts and lightweight tools built for your systems
+* **Remote infrastructure support** — deploy, maintain, and keep systems stable
+* **Available for hire** — one-off projects or ongoing maintenance. Reach out via GitHub to start a project.
 
 ✦ ☾ ･ﾟ✧ ･ﾟ✧ ☽ ✦
 
