@@ -3,7 +3,7 @@
 > **Role:** Linux SysAdmin & SOC Analyst Trainee 🖤💻
 > **Status:** Building "Veruca's Empire Infrastructure" (and making it look cute) ✨
 > **Location:** Phoenix, AZ (The Grid) 🦇 🔜 Seattle, WA '27 🌧️☕
-> **Theme:** Midnight Circle — violet, moon-silver & candle gold 🕯️☾☽
+> **Theme:** Grunge Witch — moss & sage greens, bone white, charcoal & a little rust 🌿☾☽
 
 ✦ ☾ ･ﾟ✧ ･ﾟ✧ ☽ ✦
 
